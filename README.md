@@ -5,4 +5,4 @@
 ![Screenshot (110)](https://github.com/shubhankarraj40/Scrolling-Text-Animation-using-GSAP/assets/173196957/a86314d6-6a16-46a9-8a4e-7de472a1dc61)
 
 
-Live link-: https://shiftingparadigm.github.io/Scrolling-text-animation-with-GSAP/
+Live link-: https://lazy-bugger.netlify.app/
