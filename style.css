@@ -1,0 +1,49 @@
+@font-face {
+    font-family: china;
+    src: url(Font/NeueMachina-Light.otf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: china;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #111;
+}
+
+.page1,.page2,.page3{
+    height: 100%;
+    width: 100%;
+    padding: 5vw 0;
+}
+
+.move{
+    background-color: #D9FF06;
+    display: flex;
+    padding: 3vw 0;
+    overflow: hidden;
+}
+
+.marquee img{
+    height: 4vw;
+}
+
+.marquee>h1{
+    font-size: 4vw;
+    font-weight: 600;
+}
+
+.marquee{
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3vw;
+    padding: 0 1.5vw;
+    transform: translateX(-100%);
+}
